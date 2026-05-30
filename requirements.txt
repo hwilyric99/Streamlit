@@ -1,6 +1,13 @@
 streamlit
 langchain-core
 langchain-openai
+# langchain-community 추가 (YoutubeLoader가 이 패키지 안에 들어있습니다)
+langchain-community 
+
+# 유튜브 자막 연동을 위한 필수 패키지 2개 추가
+youtube-transcript-api
+pytube
+
 tiktoken
 python-dotenv
 bs4
